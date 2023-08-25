@@ -1,0 +1,11 @@
+[
+    {
+        "name": "work",
+        "browser": "Firefox",
+        "browser_profile": "ExampleProfile",
+        "domains": [
+            "example.zoom.us",
+            "docs.google.com",
+        ]
+    }
+]
